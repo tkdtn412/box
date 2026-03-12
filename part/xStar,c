@@ -1,0 +1,25 @@
+// #include <stdio.h>
+
+// int main(){
+//     int star=2, blank=1, line =1;
+
+//     int j, k;
+//     for(int i=line;i<6;i++);{
+//         if (i>3)
+//         {       
+//              for(j=blank; j<i;j++)
+//                     printf(" ");
+
+//            /  printf("*");
+//               for(j=blank;j<i+3;j////
+// /printf(" ");
+//                 if (i!=3)
+//         }
+//         else if (i=3)
+
+//         else 
+
+    
+//     ..//
+//     }
+//     }

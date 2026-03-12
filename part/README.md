@@ -6,3 +6,5 @@ Korea university
 - vscode, git install
 
 - talk
+
+- 환경 적응

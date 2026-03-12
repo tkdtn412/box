@@ -1,0 +1,16 @@
+TARGET = charNumber limit literal charnumber
+
+all : ${TARGET}
+
+hello: $@
+	cc -o hello hello.c
+limit: $@
+literal: $@
+charnumber: $@
+
+${TARGET}: ${TARGET}.c
+	cc -o ${TARGET} ${TARGET}.c
+
+clean : 
+	rm ${TARGET}
+
